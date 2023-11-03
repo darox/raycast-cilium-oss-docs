@@ -5,7 +5,6 @@
   "description": "An extension for Raycast that let's you access Cilium Docs through Raycast.",
   "icon": "command-icon.png",
   "author": "dario_mader",
-  "owner": "dario-mader",
   "categories": [
     "Documentation"
   ],
