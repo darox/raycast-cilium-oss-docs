@@ -1,8 +1,8 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "cilium-oss-docs",
-  "title": "Cilium OSS Docs",
-  "description": "An extension for Raycast that let's you access Cilium OSS Docs through Raycast.",
+  "name": "cilium-docs",
+  "title": "Cilium",
+  "description": "An extension for Raycast that let's you access Cilium Docs through Raycast.",
   "icon": "command-icon.png",
   "author": "dario_mader",
   "owner": "dario-mader",
@@ -14,7 +14,7 @@
     {
       "name": "index",
       "title": "Search Documentation",
-      "description": "Search the Cilium OSS Documentation",
+      "description": "Cilium",
       "mode": "view"
     }
   ],
