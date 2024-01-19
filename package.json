@@ -11,10 +11,16 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "index",
+      "name": "docs",
       "title": "Search Docs",
       "description": "Cilium",
       "mode": "view"
+    },
+    {
+        "name": "helm",
+        "title": "Lookup Helm Values on Github",
+        "description": "Cilium",
+        "mode": "view"
     }
   ],
   "dependencies": {

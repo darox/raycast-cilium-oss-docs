@@ -34,8 +34,7 @@ export default function Command() {
           keyCounter++;
         });
 
-        // Update the state with the fetched items
-        setItems(fetchedItems);
+       setItems(fetchedItems);
       })
       .catch(error => {
         console.error('Error fetching data:', error);
